@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleMVP</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar_url">Avatar URL</string>
+    <string name="label_load_avatar">Load Avatar</string>
 </resources>
